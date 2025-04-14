@@ -255,6 +255,7 @@ p {
 }
 
 .logo {
+	background-size: 10px;
     float: left;
     margin-top: 8px;
 	position: relative;
